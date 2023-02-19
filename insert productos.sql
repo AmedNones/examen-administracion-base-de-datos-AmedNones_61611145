@@ -1,0 +1,10 @@
+insert into MERCADO.PRODUCTOS (nombre_producto, ind_precio_proveedor, id_categoria_producto) values ('coca cola 3l', 'S', 7);
+insert into MERCADO.PRODUCTOS (nombre_producto, ind_precio_proveedor, id_categoria_producto) values ('galleta oreo', 'S', 1);
+insert into MERCADO.PRODUCTOS (nombre_producto, ind_precio_proveedor, id_categoria_producto) values ('galleta oreo', 'S', 2);
+insert into MERCADO.PRODUCTOS (nombre_producto, ind_precio_proveedor, id_categoria_producto) values ('coca cola 3l', 'S', 9);
+insert into MERCADO.PRODUCTOS (nombre_producto, ind_precio_proveedor, id_categoria_producto) values ('pot royal', 'N', 8);
+insert into MERCADO.PRODUCTOS (nombre_producto, ind_precio_proveedor, id_categoria_producto) values ('galleta oreo', 'N', 4);
+insert into MERCADO.PRODUCTOS (nombre_producto, ind_precio_proveedor, id_categoria_producto) values ('coca cola 3l', 'N', 6);
+insert into MERCADO.PRODUCTOS (nombre_producto, ind_precio_proveedor, id_categoria_producto) values ('galleta oreo', 'N', 3);
+insert into MERCADO.PRODUCTOS (nombre_producto, ind_precio_proveedor, id_categoria_producto) values ('galleta oreo', 'S', 8);
+insert into MERCADO.PRODUCTOS (nombre_producto, ind_precio_proveedor, id_categoria_producto) values ('coca cola 3l', 'S', 9);

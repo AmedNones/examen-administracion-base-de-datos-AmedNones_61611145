@@ -1,0 +1,10 @@
+insert into MERCADO.ORDENES_COMPRA (id_proveedor, ind_pagado, ind_entregado) values (8, 'S', 'N');
+insert into MERCADO.ORDENES_COMPRA (id_proveedor, ind_pagado, ind_entregado) values (5, 'N', 'S');
+insert into MERCADO.ORDENES_COMPRA (id_proveedor, ind_pagado, ind_entregado) values (6, 'N', 'N');
+insert into MERCADO.ORDENES_COMPRA (id_proveedor, ind_pagado, ind_entregado) values (9, 'S', 'N');
+insert into MERCADO.ORDENES_COMPRA (id_proveedor, ind_pagado, ind_entregado) values (7, 'N', 'N');
+insert into MERCADO.ORDENES_COMPRA (id_proveedor, ind_pagado, ind_entregado) values (3, 'N', 'N');
+insert into MERCADO.ORDENES_COMPRA (id_proveedor, ind_pagado, ind_entregado) values (6, 'N', 'N');
+insert into MERCADO.ORDENES_COMPRA (id_proveedor, ind_pagado, ind_entregado) values (10, 'S', 'S');
+insert into MERCADO.ORDENES_COMPRA (id_proveedor, ind_pagado, ind_entregado) values (1, 'S', 'N');
+insert into MERCADO.ORDENES_COMPRA (id_proveedor, ind_pagado, ind_entregado) values (10, 'N', 'S');
